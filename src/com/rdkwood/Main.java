@@ -45,7 +45,7 @@ public class Main {
     }
 
     /**
-     * @param arr the array to be searched thru
+     * @param arr the array to be searched through
      * @param value the value searching the array for
      * @return returns the index the value is found at. If the value is not found returns -1
      */
@@ -59,7 +59,7 @@ public class Main {
     }
 
     /**
-     * @param arr the sorted array to be searched thru
+     * @param arr the sorted array to be searched through
      * @param value the value searching the array for
      * @return returns the index the value is found at. If the value is not found returns -1
      */
@@ -83,7 +83,7 @@ public class Main {
     }
 
     /**
-     * @param arr the sorted array to be searched thru
+     * @param arr the sorted array to be searched through
      * @param value the value searching the array for
      * @return returns the index the value is found at. If the value is not found returns -1
      */
